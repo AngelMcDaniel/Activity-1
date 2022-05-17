@@ -26,6 +26,7 @@ Checkbox
 ![image](https://user-images.githubusercontent.com/105662216/168706858-f447f0a1-50bc-4a8d-8cc0-ef43d76aeeca.png)
 
 Combo box
+
 ![image](https://user-images.githubusercontent.com/105662216/168706872-bfd95c47-c632-482b-a735-4d0fb64459d4.png)
 ![image](https://user-images.githubusercontent.com/105662216/168706879-28328c7e-9825-4085-8de5-cd6d9a822b47.png)
 
