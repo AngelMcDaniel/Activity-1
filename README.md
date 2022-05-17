@@ -11,3 +11,5 @@ First, the button that says “A secret message” when pressed displays a pop u
 The next control is a checkbox which when selected, changes the buttons message to “Hi!”.
 
 Lastly, the combo box contains colors that change when you select them. When a color is selected, the entire box including the dropdown portion changes into the specified color.
+
+![image](https://user-images.githubusercontent.com/105662216/168706701-b867d926-6d6e-4278-ae65-f4964b43aa61.png)
